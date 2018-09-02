@@ -18,5 +18,5 @@
 
 >>> activity_main.xml
 
->>> res folder (one subfolder named raw containing two files audio + video)
+>>> res (1 Subfolder (2 Files Audio + Video))
 
